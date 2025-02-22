@@ -1,0 +1,56 @@
+[
+    {
+        "name": "mouli",
+        "username": "mouli",
+        "email": "mouliinindia05@gmail.com",
+        "phone": "+917338923596",
+        "password": "pbkdf2:sha256:260000$0HmrFGXfbL9CsSXF$6b7bc3402376da9a3a3faa7e4f65423d2a88f637b39b0994d6112c42961705cd",
+        "latitude": "9.928704",
+        "longitude": "78.1910016"
+    },
+    {
+        "name": "venkatesh abotula",
+        "username": "venkatesh_abotula",
+        "email": "21pa1a0502@vishnu.edu.in",
+        "phone": "+919182758895",
+        "password": "scrypt:32768:8:1$dkG9fqFAeV7GppZO$a878c1318602491f406d2de22c4ad6503fd86b9f71b54909482fc25ebf4d735f7e3ee5069cd49d9087af07eadbf6a9c3cbb394fdcd0cae8970cff80f7797b73f",
+        "latitude": "16.564693",
+        "longitude": "81.52008"
+    },
+    {
+        "name": "AAVULA YESU BABU",
+        "username": "yesu",
+        "email": "21pa1a0501@vishnu.edu.in",
+        "phone": "+919999999999",
+        "password": "scrypt:32768:8:1$8RS9bLxzmdxpZkLd$4b0cf8c002f3e8d580f3fd6202825f4d99d62fd1aa719207fe2ede9b1d599b325a196ca3cb10ce27bea3c29c639e89766c2d95ccbf73c7ca69fdbd5162c6049c",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "name": "friya",
+        "username": "friya1",
+        "email": "21pa1a0525@vishnu.edu.in",
+        "phone": "+919999999999",
+        "password": "scrypt:32768:8:1$hfPEx0M8LUmFulE4$69544a3b3ae1ef5c7372ccf00ca168392e49cfc1a42d48a0a1eaeec61467479c4c5fdaae7b1d55ecb78a3dc768bd10772cb669ad0e0f17416c15b4ea8847b5db",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "name": "a",
+        "username": "ab",
+        "email": "21pa1a0501@vishnu.edu.in",
+        "phone": "+919398293893",
+        "password": "scrypt:32768:8:1$OVMd7kxaKfKypVDZ$a05c718cb1efae74719dddd1ecee7a9737e0f56692afa8463b20ca9be8e1dbae463a0c66ef83f0d3a20cd2c9f21325380d62367eebf1ecde52de17d85fc468aa",
+        "latitude": "17.3617",
+        "longitude": "78.4751"
+    },
+    {
+        "name": "a",
+        "username": "ab",
+        "email": "21pa1a0501@vishnu.edu.in",
+        "phone": "+919398293893",
+        "password": "scrypt:32768:8:1$4KAFOEp6aTG2Pqbh$789443b39f2748b96e49253e19490bd7cc25f20f33373a349c17664ac75a9af5bae263cf409d12d7dd6f7cc64ac52a7c11c491bc4ebff6c615c45e12ce6f0f0d",
+        "latitude": "17.3617",
+        "longitude": "78.4751"
+    }
+]
